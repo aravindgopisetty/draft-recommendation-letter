@@ -1,0 +1,4 @@
+interface:
+  display_name: "Draft Recommendation Letter"
+  short_description: "Draft evidence-based letters of recommendation"
+  default_prompt: "Use $draft-recommendation-letter to turn my observations into a tailored letter of recommendation."
